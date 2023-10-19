@@ -1,0 +1,1 @@
+alert("Warning do you want to open this site")
